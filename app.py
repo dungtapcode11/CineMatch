@@ -463,5 +463,4 @@ with cac_tab[4]:
         bang_hien_thi(du_dieu_kien)
     st.caption("Phim Việt Nam được bổ sung thủ công chưa có đánh giá MovieLens, vì vậy không bị gán điểm sao hoặc đưa vào bảng xếp hạng này.")
 
-    st.code("python -m pip install streamlit pandas numpy scikit-learn scipy\npython -m streamlit run app.py", language="powershell")
     st.caption("Nguồn dữ liệu: MovieLens Latest Small (GroupLens) và danh sách phim Việt bổ sung thủ công. Ứng dụng phục vụ mục đích học tập.")
